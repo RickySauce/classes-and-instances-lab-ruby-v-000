@@ -1,12 +1,12 @@
 class Dog
 end
 
-biff = Dog.new
-Charles = Dog.new
-Randy = Dog.new
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
 
 class Person
 end
 
-Garcia = Person.new
-Cynthia = Person.new
+adele_goldberg = Person.new
+alan_kay = Person.new
